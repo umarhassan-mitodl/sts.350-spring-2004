@@ -1,0 +1,53 @@
+{
+  "term": "Spring",
+  "year": "2004",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "History",
+      "History of Science and Technology"
+    ],
+    [
+      "Humanities",
+      "Philosophy"
+    ],
+    [
+      "Social Science",
+      "Sociology"
+    ]
+  ],
+  "legacy_uid": "d8e099b3-c04e-0d2c-52c2-53c58bcfb9a9",
+  "instructors": {
+    "content": [
+      "1619043a-517d-06ae-7e56-41fab57835ca"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "c5c0728b-fb0c-5e68-c99d-bfce89777ef7",
+    "website": "sts-350-social-study-of-science-and-technology-spring-2004"
+  },
+  "course_title": "Social Study of Science and Technology",
+  "hide_download": true,
+  "course_description": "This course surveys canonical and recent theories and methods in science studies. We will organize our discussions around the concept of \"reproduction,\" referring variously to:\n\n1.  Scientific reproduction (how results are replicated in lab, field, disciplinary contexts)\n2.  Social reproduction (how social knowledge and relations are regenerated over time)\n3.  Biological reproduction (how organic substance is managed in the genetic age)\n4.  Electronic reproduction (how information is reassembled in techniques of transcription, simulation, computation).\n\nExamining intersections and disruptions of these genres of reproduction, we seek to map relations among our social, biological, and electronic lives.\n",
+  "department_numbers": [
+    "STS"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "STS.350",
+  "course_image_thumbnail": {
+    "content": "577e1eba-2aee-1503-c364-98d57ff3289d",
+    "website": "sts-350-social-study-of-science-and-technology-spring-2004"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "8fa8aba9-15b7-4669-9bd7-e1c950566a60",
+  "site_short_id": "sts.350-spring-2004",
+  "site_url_path": "courses/sts-350-social-study-of-science-and-technology-spring-2004",
+  "title": "Course Metadata"
+}

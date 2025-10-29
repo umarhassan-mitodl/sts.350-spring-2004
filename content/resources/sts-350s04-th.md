@@ -4,10 +4,9 @@ description: Photo of a robot. (Image courtesy of the Pacific Northwest National
 file: /courses/sts-350-social-study-of-science-and-technology-spring-2004/577e1eba2aee1503c36498d57ff3289d_sts-350s04-th.jpg
 file_size: 11627
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
-  caption: "Robot. (Image courtesy of the\_[Pacific Northwest National Laboratory](http://www.pnl.gov/).)"
+  caption: "Robot. (Image courtesy of the\_{{% resource_link \"3061626f-1573-4686-a0ad-49bbf3ec71cf\"\
+    \ \"Pacific Northwest National Laboratory\" %}}.)"
   credit: ''
   image-alt: A photograph of a humanoid robot.
 learning_resource_types: []
